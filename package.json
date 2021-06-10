@@ -1,0 +1,26 @@
+{
+  "name": "stylelint-config-emochan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kou-by/stylelint-config-emochan.git"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config"
+  ],
+  "author": "KOU inc.",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/kou-by/stylelint-config-emochan/issues"
+  },
+  "homepage": "https://github.com/kou-by/stylelint-config-emochan#readme"
+}
