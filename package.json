@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/kou-by/stylelint-config-emochan#readme",
   "dependencies": {
-    "stylelint-config-recess-order": "^2.4.0",
+    "stylelint-config-recess-order": "^3.0.0",
     "stylelint-config-standard": "^22.0.0",
     "stylelint-scss": "^3.19.0"
   }
